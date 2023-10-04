@@ -1,0 +1,4 @@
+1692766002164	Move 'web.xml' to 'lib'
+1692767915825	Move 'index.jsp' to 'webapp'
+1692767943005	Move 'web.xml' to 'WEB-INF'
+1692767945745	Move 'spring-servlet.xml' to 'WEB-INF'
